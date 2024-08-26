@@ -39,7 +39,6 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Install Haxelib
         run: |
-          haxelib install flixel --always --quiet
           haxelib install hxcpp --always --quiet
           haxe --main Setup -D analyzer-optimize --interp
           haxelib set hxCodec 2.5.1 --always
