@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "EDD SWAG IDLE"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "Really?",
+			"indices": [],
+			"name": "EDD SWAG SILLY"
+		},
+		{
+			"offsets": [
+				-11,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "EDD SWAG HEY"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				82,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "EDD LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				40
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "EDD SWAG up MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-92,
+				-15
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "EDD SWAG rIGHT MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				72,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "EDD LEFT IDLE"
+		},
+		{
+			"offsets": [
+				-8,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "EDD SWAG DOWN IDLE"
+		},
+		{
+			"offsets": [
+				-48,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "EDD SWAG up IDLE"
+		},
+		{
+			"offsets": [
+				-81,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "EDD SWAG rIGHT IDLE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "",
+			"loop": false,
+			"name": ""
+		},
+		{
+			"offsets": [
+				0,
+				-23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "EDD SWAG DOWN MISS"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EDD-VER2",
+	"position": [
+		-40,
+		70
+	],
+	"healthicon": "Cola",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		213,
+		100
+	],
+	"camera_position": [
+		110,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

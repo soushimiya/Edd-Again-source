@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Matt Vampire.png">
+<SubTexture name="Matt Vampire L0000" x="879" y="705" width="455" height="660" frameX="-403" frameY="-413" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire L0001" x="879" y="705" width="455" height="660" frameX="-403" frameY="-413" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire L0002" x="1711" y="0" width="451" height="658" frameX="-402" frameY="-415" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire L0003" x="1711" y="0" width="451" height="658" frameX="-402" frameY="-415" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire L0004" x="1711" y="658" width="448" height="655" frameX="-401" frameY="-418" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire L0005" x="1711" y="658" width="448" height="655" frameX="-401" frameY="-418" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire R0000" x="1267" y="0" width="444" height="664" frameX="-332" frameY="-409" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire R0001" x="1267" y="0" width="444" height="664" frameX="-332" frameY="-409" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire R0002" x="0" y="705" width="440" height="663" frameX="-337" frameY="-410" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire R0003" x="0" y="705" width="440" height="663" frameX="-337" frameY="-410" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire R0004" x="440" y="705" width="439" height="663" frameX="-341" frameY="-410" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire R0005" x="440" y="705" width="439" height="663" frameX="-341" frameY="-410" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire U0000" x="0" y="0" width="409" height="705" frameX="-386" frameY="-368" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire U0001" x="0" y="0" width="409" height="705" frameX="-386" frameY="-368" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire U0002" x="409" y="0" width="424" height="696" frameX="-379" frameY="-377" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire U0003" x="409" y="0" width="424" height="696" frameX="-379" frameY="-377" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire U0004" x="833" y="0" width="434" height="690" frameX="-376" frameY="-383" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire U0005" x="833" y="0" width="434" height="690" frameX="-376" frameY="-383" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire D0000" x="424" y="2023" width="430" height="609" frameX="-378" frameY="-464" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire D0001" x="424" y="2023" width="430" height="609" frameX="-378" frameY="-464" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire D0002" x="0" y="2023" width="424" height="618" frameX="-384" frameY="-457" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire D0003" x="0" y="2023" width="424" height="618" frameX="-384" frameY="-457" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire D0004" x="2566" y="0" width="420" height="626" frameX="-387" frameY="-447" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire D0005" x="2566" y="0" width="420" height="626" frameX="-387" frameY="-447" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire Yeh0000" x="0" y="1368" width="418" height="655" frameX="-393" frameY="-418" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire idle0000" x="2162" y="0" width="404" height="627" frameX="-394" frameY="-446" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire idle0001" x="2162" y="0" width="404" height="627" frameX="-394" frameY="-446" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire idle0002" x="1661" y="1368" width="408" height="638" frameX="-395" frameY="-435" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire idle0003" x="1661" y="1368" width="408" height="638" frameX="-395" frameY="-435" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire idle0004" x="1248" y="1368" width="413" height="652" frameX="-395" frameY="-421" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire idle0005" x="1248" y="1368" width="413" height="652" frameX="-395" frameY="-421" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire idle0006" x="418" y="1368" width="418" height="655" frameX="-393" frameY="-418" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire idle0007" x="418" y="1368" width="418" height="655" frameX="-393" frameY="-418" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire loop0000" x="836" y="1368" width="412" height="654" frameX="-396" frameY="-419" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire loop0001" x="418" y="1368" width="418" height="655" frameX="-393" frameY="-418" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire loop0002" x="836" y="1368" width="412" height="654" frameX="-396" frameY="-419" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Matt Vampire loop0003" x="418" y="1368" width="418" height="655" frameX="-393" frameY="-418" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

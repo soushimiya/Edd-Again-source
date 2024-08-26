@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Tom2008 idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Tom2008 d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Tom2008 u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Tom2008 r",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Tom2008 l",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Tom2008 Shot-loop"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Shot",
+			"fps": 19,
+			"name": "Tom2008 shot",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Tom2008",
+	"position": [
+		-300,
+		-25
+	],
+	"healthicon": "to",
+	"flip_x": false,
+	"healthbar_colors": [
+		71,
+		97,
+		142
+	],
+	"camera_position": [
+		-160,
+		-270
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

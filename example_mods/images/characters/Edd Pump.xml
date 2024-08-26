@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Pump Edd.png">
+<SubTexture name="Pump Edd miss0000" x="344" y="635" width="326" height="612" frameX="-405" frameY="-452" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd miss0001" x="344" y="635" width="326" height="612" frameX="-405" frameY="-452" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd miss0002" x="0" y="1248" width="339" height="601" frameX="-400" frameY="-464" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd miss0003" x="0" y="1248" width="339" height="601" frameX="-400" frameY="-464" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd miss0004" x="1350" y="1248" width="347" height="586" frameX="-397" frameY="-479" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd miss0005" x="1350" y="1248" width="347" height="586" frameX="-397" frameY="-479" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd idle0000" x="1992" y="580" width="332" height="578" frameX="-398" frameY="-487" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd idle0001" x="1992" y="580" width="332" height="578" frameX="-398" frameY="-487" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd idle0002" x="1306" y="609" width="324" height="593" frameX="-401" frameY="-472" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd idle0003" x="1306" y="609" width="324" height="593" frameX="-401" frameY="-472" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd idle0004" x="1306" y="0" width="328" height="609" frameX="-400" frameY="-456" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd idle0005" x="1306" y="0" width="328" height="609" frameX="-400" frameY="-456" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd idle0006" x="670" y="635" width="326" height="612" frameX="-405" frameY="-452" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd idle0007" x="670" y="635" width="326" height="612" frameX="-405" frameY="-452" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd idle0008" x="670" y="635" width="326" height="612" frameX="-405" frameY="-452" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd idle0009" x="670" y="635" width="326" height="612" frameX="-405" frameY="-452" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd idle0010" x="670" y="635" width="326" height="612" frameX="-405" frameY="-452" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd idle0011" x="670" y="635" width="326" height="612" frameX="-405" frameY="-452" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd L0000" x="1634" y="0" width="358" height="609" frameX="-362" frameY="-456" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd L0001" x="1634" y="0" width="358" height="609" frameX="-362" frameY="-456" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd L0002" x="0" y="635" width="344" height="613" frameX="-377" frameY="-452" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd L0003" x="0" y="635" width="344" height="613" frameX="-377" frameY="-452" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd L0004" x="970" y="0" width="336" height="617" frameX="-387" frameY="-448" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd L0005" x="970" y="0" width="336" height="617" frameX="-387" frameY="-448" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd U0000" x="0" y="0" width="326" height="635" frameX="-402" frameY="-430" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd U0001" x="0" y="0" width="326" height="635" frameX="-402" frameY="-430" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd U0002" x="326" y="0" width="323" height="626" frameX="-410" frameY="-439" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd U0003" x="326" y="0" width="323" height="626" frameX="-410" frameY="-439" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd U0004" x="649" y="0" width="321" height="619" frameX="-413" frameY="-446" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd U0005" x="649" y="0" width="321" height="619" frameX="-413" frameY="-446" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd R0000" x="1992" y="1158" width="326" height="573" frameX="-485" frameY="-492" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd R0001" x="1992" y="1158" width="326" height="573" frameX="-485" frameY="-492" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd R0002" x="686" y="1248" width="321" height="591" frameX="-483" frameY="-474" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd R0003" x="686" y="1248" width="321" height="591" frameX="-483" frameY="-474" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd R0004" x="1634" y="609" width="316" height="602" frameX="-481" frameY="-463" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd R0005" x="1634" y="609" width="316" height="602" frameX="-481" frameY="-463" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd D0000" x="1992" y="0" width="339" height="580" frameX="-395" frameY="-485" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd D0001" x="1992" y="0" width="339" height="580" frameX="-395" frameY="-485" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd D0002" x="1007" y="1248" width="343" height="591" frameX="-393" frameY="-474" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd D0003" x="1007" y="1248" width="343" height="591" frameX="-393" frameY="-474" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd D0004" x="339" y="1248" width="347" height="601" frameX="-392" frameY="-464" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Pump Edd D0005" x="339" y="1248" width="347" height="601" frameX="-392" frameY="-464" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

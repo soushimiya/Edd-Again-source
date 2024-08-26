@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Tom Zon.png">
+<SubTexture name="Tom Zon idle0000" x="0" y="645" width="423" height="637" frameX="-427" frameY="-251" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Tom Zon idle0001" x="0" y="645" width="423" height="637" frameX="-427" frameY="-251" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Tom Zon idle0002" x="336" y="0" width="361" height="644" frameX="-445" frameY="-241" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Tom Zon idle0003" x="336" y="0" width="361" height="644" frameX="-445" frameY="-241" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Tom Zon idle0004" x="0" y="0" width="336" height="645" frameX="-445" frameY="-231" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Tom Zon idle0005" x="0" y="0" width="336" height="645" frameX="-445" frameY="-231" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Tom Zon idle0006" x="697" y="0" width="336" height="643" frameX="-445" frameY="-241" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Tom Zon idle0007" x="697" y="0" width="336" height="643" frameX="-445" frameY="-241" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Tom Zon idle0008" x="1033" y="0" width="336" height="639" frameX="-445" frameY="-251" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Tom Zon idle0009" x="1033" y="0" width="336" height="639" frameX="-445" frameY="-251" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Tom Zon idle0010" x="697" y="0" width="336" height="643" frameX="-445" frameY="-241" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Tom Zon idle0011" x="697" y="0" width="336" height="643" frameX="-445" frameY="-241" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Tom Zon idle0012" x="0" y="0" width="336" height="645" frameX="-445" frameY="-231" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Tom Zon idle0013" x="0" y="0" width="336" height="645" frameX="-445" frameY="-231" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Tom Zon idle0014" x="336" y="0" width="361" height="644" frameX="-445" frameY="-241" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Tom Zon idle0015" x="336" y="0" width="361" height="644" frameX="-445" frameY="-241" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

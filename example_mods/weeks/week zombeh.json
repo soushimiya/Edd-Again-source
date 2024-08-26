@@ -1,0 +1,50 @@
+{
+	"storyName": "Zombeh-Attack",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "Week-Zombeh",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Zombeh-Attack",
+			"TT",
+			[
+				0,
+				155,
+				133
+			]
+		],
+		[
+			"Im-In-Your-Car",
+			"Edd and Tord",
+			[
+				155,
+				0,
+				20
+			]
+		],
+		[
+			"Final-Zombeh",
+			"Fz",
+			[
+				80,
+				93,
+				113
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "WEEK Zombeh",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "PICO IDLE"
+		},
+		{
+			"offsets": [
+				18,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "PICO DOWN"
+		},
+		{
+			"offsets": [
+				44,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "PICO LEFT"
+		},
+		{
+			"offsets": [
+				-22,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "PICO UP"
+		},
+		{
+			"offsets": [
+				-100,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "PICO RIGHT"
+		},
+		{
+			"offsets": [
+				810,
+				220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "SHOOTL",
+			"indices": [],
+			"name": "PICO SHOOT L"
+		},
+		{
+			"offsets": [
+				620,
+				156
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "SHOOTR",
+			"indices": [],
+			"name": "PICO SHOOT R"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Pico-2004-Ver.2",
+	"position": [
+		100,
+		400
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		330,
+		-200
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

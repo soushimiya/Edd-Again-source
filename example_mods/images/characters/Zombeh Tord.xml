@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Zombeh Tord.png">
+<SubTexture name="Zombeh Tord idle0000" x="1366" y="1462" width="502" height="660" frameX="-457" frameY="-407" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord idle0001" x="1366" y="1462" width="502" height="660" frameX="-457" frameY="-407" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord idle0002" x="890" y="1462" width="476" height="669" frameX="-468" frameY="-398" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord idle0003" x="890" y="1462" width="476" height="669" frameX="-468" frameY="-398" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord idle0004" x="850" y="767" width="451" height="687" frameX="-476" frameY="-380" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord idle0005" x="850" y="767" width="451" height="687" frameX="-476" frameY="-380" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord idle0006" x="0" y="767" width="418" height="695" frameX="-496" frameY="-371" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord idle0007" x="0" y="767" width="418" height="695" frameX="-496" frameY="-371" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord idle0008" x="0" y="767" width="418" height="695" frameX="-496" frameY="-371" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord idle0009" x="0" y="767" width="418" height="695" frameX="-496" frameY="-371" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord idle0010" x="0" y="767" width="418" height="695" frameX="-496" frameY="-371" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord idle0011" x="0" y="767" width="418" height="695" frameX="-496" frameY="-371" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord L0000" x="0" y="1462" width="454" height="674" frameX="-510" frameY="-393" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord L0001" x="0" y="1462" width="454" height="674" frameX="-510" frameY="-393" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord L0002" x="1608" y="0" width="449" height="683" frameX="-503" frameY="-384" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord L0003" x="1608" y="0" width="449" height="683" frameX="-503" frameY="-384" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord L0004" x="418" y="767" width="432" height="691" frameX="-499" frameY="-376" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord L0005" x="418" y="767" width="432" height="691" frameX="-499" frameY="-376" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord R0000" x="454" y="1462" width="436" height="674" frameX="-460" frameY="-393" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord R0001" x="454" y="1462" width="436" height="674" frameX="-460" frameY="-393" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord R0002" x="2057" y="0" width="430" height="675" frameX="-468" frameY="-392" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord R0003" x="2057" y="0" width="430" height="675" frameX="-468" frameY="-392" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord R0004" x="1608" y="683" width="419" height="678" frameX="-479" frameY="-389" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord R0005" x="1608" y="683" width="419" height="678" frameX="-479" frameY="-389" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord U0000" x="0" y="0" width="521" height="767" frameX="-442" frameY="-300" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord U0001" x="0" y="0" width="521" height="767" frameX="-442" frameY="-300" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord U0002" x="521" y="0" width="538" height="748" frameX="-434" frameY="-319" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord U0003" x="521" y="0" width="538" height="748" frameX="-434" frameY="-319" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord U0004" x="1059" y="0" width="549" height="737" frameX="-431" frameY="-330" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord U0005" x="1059" y="0" width="549" height="737" frameX="-431" frameY="-330" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord D0000" x="2487" y="0" width="457" height="616" frameX="-499" frameY="-451" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord D0001" x="2487" y="0" width="457" height="616" frameX="-499" frameY="-451" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord D0002" x="1868" y="1462" width="438" height="635" frameX="-501" frameY="-432" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord D0003" x="1868" y="1462" width="438" height="635" frameX="-501" frameY="-432" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord D0004" x="2057" y="675" width="422" height="649" frameX="-504" frameY="-418" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Zombeh Tord D0005" x="2057" y="675" width="422" height="649" frameX="-504" frameY="-418" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

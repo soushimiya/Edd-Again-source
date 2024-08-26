@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Chronicles tord.png">
+<SubTexture name="Chronicles tord hey0000" x="0" y="0" width="461" height="510" frameX="-39" frameY="0" frameWidth="545" frameHeight="545" />
+<SubTexture name="Chronicles tord hey0001" x="461" y="0" width="461" height="463" frameX="-39" frameY="-47" frameWidth="545" frameHeight="545" />
+<SubTexture name="Chronicles tord hey0002" x="0" y="944" width="461" height="401" frameX="-39" frameY="-109" frameWidth="545" frameHeight="545" />
+<SubTexture name="Chronicles tord hey0003" x="461" y="944" width="461" height="322" frameX="-39" frameY="-188" frameWidth="545" frameHeight="545" />
+<SubTexture name="Chronicles tord hey0004" x="943" y="1345" width="483" height="213" frameX="-31" frameY="-318" frameWidth="545" frameHeight="545" />
+<SubTexture name="Chronicles tord hey0005" x="467" y="1345" width="476" height="222" frameX="-33" frameY="-309" frameWidth="545" frameHeight="545" />
+<SubTexture name="Chronicles tord hey0006" x="0" y="1345" width="467" height="230" frameX="-36" frameY="-301" frameWidth="545" frameHeight="545" />
+<SubTexture name="Chronicles tord hey0007" x="922" y="944" width="462" height="240" frameX="-39" frameY="-291" frameWidth="545" frameHeight="545" />
+<SubTexture name="Chronicles tord alt toord0000" x="922" y="944" width="462" height="240" frameX="-39" frameY="-291" frameWidth="545" frameHeight="545" />
+<SubTexture name="Chronicles tord idle0000" x="1259" y="0" width="357" height="419" frameX="-66" frameY="-91" frameWidth="545" frameHeight="545" />
+<SubTexture name="Chronicles tord idle0001" x="693" y="510" width="353" height="426" frameX="-68" frameY="-84" frameWidth="545" frameHeight="545" />
+<SubTexture name="Chronicles tord idle0002" x="343" y="510" width="350" height="430" frameX="-70" frameY="-80" frameWidth="545" frameHeight="545" />
+<SubTexture name="Chronicles tord idle0003" x="0" y="510" width="343" height="434" frameX="-72" frameY="-76" frameWidth="545" frameHeight="545" />
+<SubTexture name="Chronicles tord idle0004" x="922" y="0" width="337" height="441" frameX="-74" frameY="-69" frameWidth="545" frameHeight="545" />
+</TextureAtlas>

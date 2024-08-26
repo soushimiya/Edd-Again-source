@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sunshine.png">
+<SubTexture name="sunshine idle0000" x="0" y="822" width="514" height="808" frameX="-254" frameY="-397" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="sunshine idle0001" x="0" y="822" width="514" height="808" frameX="-254" frameY="-397" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="sunshine idle0002" x="1518" y="0" width="505" height="814" frameX="-259" frameY="-391" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="sunshine idle0003" x="1518" y="0" width="505" height="814" frameX="-259" frameY="-391" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="sunshine idle0004" x="1012" y="0" width="506" height="818" frameX="-259" frameY="-387" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="sunshine idle0005" x="1012" y="0" width="506" height="818" frameX="-259" frameY="-387" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="sunshine idle0006" x="0" y="0" width="506" height="822" frameX="-259" frameY="-383" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="sunshine idle0007" x="0" y="0" width="506" height="822" frameX="-259" frameY="-383" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="sunshine boom0000" x="506" y="0" width="506" height="822" frameX="-259" frameY="-383" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

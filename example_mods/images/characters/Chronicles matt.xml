@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Chronicles matt.png">
+<SubTexture name="Chronicles matt idle0000" x="0" y="760" width="532" height="365" frameX="-13" frameY="-172" frameWidth="545" frameHeight="545" />
+<SubTexture name="Chronicles matt idle0001" x="1010" y="0" width="523" height="368" frameX="-16" frameY="-170" frameWidth="545" frameHeight="545" />
+<SubTexture name="Chronicles matt idle0002" x="0" y="388" width="512" height="372" frameX="-22" frameY="-165" frameWidth="545" frameHeight="545" />
+<SubTexture name="Chronicles matt idle0003" x="505" y="0" width="505" height="379" frameX="-26" frameY="-159" frameWidth="545" frameHeight="545" />
+<SubTexture name="Chronicles matt idle0004" x="0" y="0" width="505" height="388" frameX="-26" frameY="-150" frameWidth="545" frameHeight="545" />
+</TextureAtlas>

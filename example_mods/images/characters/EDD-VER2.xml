@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EDD-VER2.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EDD LEFT IDLE0000" x="20" y="20" width="505" height="762" frameX="-2" frameY="0" frameWidth="507" frameHeight="762"/>
+	<SubTexture name="EDD LEFT IDLE0001" x="20" y="20" width="505" height="762" frameX="-2" frameY="0" frameWidth="507" frameHeight="762"/>
+	<SubTexture name="EDD LEFT IDLE0002" x="535" y="20" width="493" height="761" frameX="0" frameY="-1" frameWidth="507" frameHeight="762"/>
+	<SubTexture name="EDD LEFT IDLE0003" x="535" y="20" width="493" height="761" frameX="0" frameY="-1" frameWidth="507" frameHeight="762"/>
+	<SubTexture name="EDD LEFT IDLE0004" x="1038" y="20" width="491" height="760" frameX="0" frameY="-2" frameWidth="507" frameHeight="762"/>
+	<SubTexture name="EDD LEFT IDLE0005" x="1038" y="20" width="491" height="760" frameX="0" frameY="-2" frameWidth="507" frameHeight="762"/>
+	<SubTexture name="EDD LEFT IDLE0006" x="1539" y="20" width="491" height="760" frameX="0" frameY="-2" frameWidth="507" frameHeight="762"/>
+	<SubTexture name="EDD LEFT IDLE0007" x="1539" y="20" width="491" height="760" frameX="0" frameY="-2" frameWidth="507" frameHeight="762"/>
+	<SubTexture name="EDD LEFT IDLE0008" x="1038" y="20" width="491" height="760" frameX="0" frameY="-2" frameWidth="507" frameHeight="762"/>
+	<SubTexture name="EDD LEFT IDLE0009" x="1038" y="20" width="491" height="760" frameX="0" frameY="-2" frameWidth="507" frameHeight="762"/>
+	<SubTexture name="EDD LEFT IDLE0010" x="1539" y="20" width="491" height="760" frameX="0" frameY="-2" frameWidth="507" frameHeight="762"/>
+	<SubTexture name="EDD LEFT IDLE0011" x="1539" y="20" width="491" height="760" frameX="0" frameY="-2" frameWidth="507" frameHeight="762"/>
+	<SubTexture name="EDD LEFT IDLE0012" x="1038" y="20" width="491" height="760" frameX="0" frameY="-2" frameWidth="507" frameHeight="762"/>
+	<SubTexture name="EDD LEFT IDLE0013" x="1038" y="20" width="491" height="760" frameX="0" frameY="-2" frameWidth="507" frameHeight="762"/>
+	<SubTexture name="EDD LEFT MISS0000" x="2040" y="20" width="505" height="762" frameX="0" frameY="0" frameWidth="517" frameHeight="762"/>
+	<SubTexture name="EDD LEFT MISS0001" x="2040" y="20" width="505" height="762" frameX="0" frameY="0" frameWidth="517" frameHeight="762"/>
+	<SubTexture name="EDD LEFT MISS0002" x="2555" y="20" width="516" height="762" frameX="-1" frameY="0" frameWidth="517" frameHeight="762"/>
+	<SubTexture name="EDD LEFT MISS0003" x="2555" y="20" width="516" height="762" frameX="-1" frameY="0" frameWidth="517" frameHeight="762"/>
+	<SubTexture name="EDD LEFT MISS0004" x="3081" y="20" width="505" height="762" frameX="0" frameY="0" frameWidth="517" frameHeight="762"/>
+	<SubTexture name="EDD LEFT MISS0005" x="3081" y="20" width="505" height="762" frameX="0" frameY="0" frameWidth="517" frameHeight="762"/>
+	<SubTexture name="EDD LEFT MISS0006" x="3596" y="20" width="505" height="762" frameX="0" frameY="0" frameWidth="517" frameHeight="762"/>
+	<SubTexture name="EDD LEFT MISS0007" x="3596" y="20" width="505" height="762" frameX="0" frameY="0" frameWidth="517" frameHeight="762"/>
+	<SubTexture name="EDD LEFT MISS0008" x="3081" y="20" width="505" height="762" frameX="0" frameY="0" frameWidth="517" frameHeight="762"/>
+	<SubTexture name="EDD LEFT MISS0009" x="3081" y="20" width="505" height="762" frameX="0" frameY="0" frameWidth="517" frameHeight="762"/>
+	<SubTexture name="EDD LEFT MISS0010" x="3596" y="20" width="505" height="762" frameX="0" frameY="0" frameWidth="517" frameHeight="762"/>
+	<SubTexture name="EDD LEFT MISS0011" x="3596" y="20" width="505" height="762" frameX="0" frameY="0" frameWidth="517" frameHeight="762"/>
+	<SubTexture name="EDD LEFT MISS0012" x="3081" y="20" width="505" height="762" frameX="0" frameY="0" frameWidth="517" frameHeight="762"/>
+	<SubTexture name="EDD LEFT MISS0013" x="3081" y="20" width="505" height="762" frameX="0" frameY="0" frameWidth="517" frameHeight="762"/>
+	<SubTexture name="EDD SWAG DOWN IDLE0000" x="4111" y="20" width="473" height="706" frameX="0" frameY="-25" frameWidth="473" frameHeight="731"/>
+	<SubTexture name="EDD SWAG DOWN IDLE0001" x="4111" y="20" width="473" height="706" frameX="0" frameY="-25" frameWidth="473" frameHeight="731"/>
+	<SubTexture name="EDD SWAG DOWN IDLE0002" x="4594" y="20" width="453" height="728" frameX="-8" frameY="-3" frameWidth="473" frameHeight="731"/>
+	<SubTexture name="EDD SWAG DOWN IDLE0003" x="4594" y="20" width="453" height="728" frameX="-8" frameY="-3" frameWidth="473" frameHeight="731"/>
+	<SubTexture name="EDD SWAG DOWN IDLE0004" x="5057" y="20" width="451" height="731" frameX="-9" frameY="0" frameWidth="473" frameHeight="731"/>
+	<SubTexture name="EDD SWAG DOWN IDLE0005" x="5057" y="20" width="451" height="731" frameX="-9" frameY="0" frameWidth="473" frameHeight="731"/>
+	<SubTexture name="EDD SWAG DOWN IDLE0006" x="5057" y="20" width="451" height="731" frameX="-9" frameY="0" frameWidth="473" frameHeight="731"/>
+	<SubTexture name="EDD SWAG DOWN IDLE0007" x="5057" y="20" width="451" height="731" frameX="-9" frameY="0" frameWidth="473" frameHeight="731"/>
+	<SubTexture name="EDD SWAG DOWN IDLE0008" x="5057" y="20" width="451" height="731" frameX="-9" frameY="0" frameWidth="473" frameHeight="731"/>
+	<SubTexture name="EDD SWAG DOWN IDLE0009" x="5057" y="20" width="451" height="731" frameX="-9" frameY="0" frameWidth="473" frameHeight="731"/>
+	<SubTexture name="EDD SWAG DOWN IDLE0010" x="5057" y="20" width="451" height="731" frameX="-9" frameY="0" frameWidth="473" frameHeight="731"/>
+	<SubTexture name="EDD SWAG DOWN IDLE0011" x="5057" y="20" width="451" height="731" frameX="-9" frameY="0" frameWidth="473" frameHeight="731"/>
+	<SubTexture name="EDD SWAG DOWN IDLE0012" x="5057" y="20" width="451" height="731" frameX="-9" frameY="0" frameWidth="473" frameHeight="731"/>
+	<SubTexture name="EDD SWAG DOWN IDLE0013" x="5057" y="20" width="451" height="731" frameX="-9" frameY="0" frameWidth="473" frameHeight="731"/>
+	<SubTexture name="EDD SWAG DOWN MISS0000" x="5518" y="20" width="473" height="706" frameX="-13" frameY="-30" frameWidth="493" frameHeight="736"/>
+	<SubTexture name="EDD SWAG DOWN MISS0001" x="5518" y="20" width="473" height="706" frameX="-13" frameY="-30" frameWidth="493" frameHeight="736"/>
+	<SubTexture name="EDD SWAG DOWN MISS0002" x="6001" y="20" width="493" height="723" frameX="0" frameY="-13" frameWidth="493" frameHeight="736"/>
+	<SubTexture name="EDD SWAG DOWN MISS0003" x="6001" y="20" width="493" height="723" frameX="0" frameY="-13" frameWidth="493" frameHeight="736"/>
+	<SubTexture name="EDD SWAG DOWN MISS0004" x="6504" y="20" width="451" height="736" frameX="-22" frameY="0" frameWidth="493" frameHeight="736"/>
+	<SubTexture name="EDD SWAG DOWN MISS0005" x="6504" y="20" width="451" height="736" frameX="-22" frameY="0" frameWidth="493" frameHeight="736"/>
+	<SubTexture name="EDD SWAG DOWN MISS0006" x="6504" y="20" width="451" height="736" frameX="-22" frameY="0" frameWidth="493" frameHeight="736"/>
+	<SubTexture name="EDD SWAG DOWN MISS0007" x="6504" y="20" width="451" height="736" frameX="-22" frameY="0" frameWidth="493" frameHeight="736"/>
+	<SubTexture name="EDD SWAG DOWN MISS0008" x="6504" y="20" width="451" height="736" frameX="-22" frameY="0" frameWidth="493" frameHeight="736"/>
+	<SubTexture name="EDD SWAG DOWN MISS0009" x="6504" y="20" width="451" height="736" frameX="-22" frameY="0" frameWidth="493" frameHeight="736"/>
+	<SubTexture name="EDD SWAG DOWN MISS0010" x="6504" y="20" width="451" height="736" frameX="-22" frameY="0" frameWidth="493" frameHeight="736"/>
+	<SubTexture name="EDD SWAG DOWN MISS0011" x="6504" y="20" width="451" height="736" frameX="-22" frameY="0" frameWidth="493" frameHeight="736"/>
+	<SubTexture name="EDD SWAG DOWN MISS0012" x="6504" y="20" width="451" height="736" frameX="-22" frameY="0" frameWidth="493" frameHeight="736"/>
+	<SubTexture name="EDD SWAG DOWN MISS0013" x="6504" y="20" width="451" height="736" frameX="-22" frameY="0" frameWidth="493" frameHeight="736"/>
+	<SubTexture name="EDD SWAG HEY0000" x="6965" y="20" width="501" height="783" frameX="-10" frameY="0" frameWidth="511" frameHeight="783"/>
+	<SubTexture name="EDD SWAG HEY0001" x="6965" y="20" width="501" height="783" frameX="-10" frameY="0" frameWidth="511" frameHeight="783"/>
+	<SubTexture name="EDD SWAG HEY0002" x="7476" y="20" width="496" height="765" frameX="-2" frameY="-9" frameWidth="511" frameHeight="783"/>
+	<SubTexture name="EDD SWAG HEY0003" x="7476" y="20" width="496" height="765" frameX="-2" frameY="-9" frameWidth="511" frameHeight="783"/>
+	<SubTexture name="EDD SWAG HEY0004" x="20" y="813" width="497" height="762" frameX="0" frameY="-10" frameWidth="511" frameHeight="783"/>
+	<SubTexture name="EDD SWAG HEY0005" x="20" y="813" width="497" height="762" frameX="0" frameY="-10" frameWidth="511" frameHeight="783"/>
+	<SubTexture name="EDD SWAG HEY0006" x="527" y="813" width="497" height="762" frameX="0" frameY="-10" frameWidth="511" frameHeight="783"/>
+	<SubTexture name="EDD SWAG HEY0007" x="527" y="813" width="497" height="762" frameX="0" frameY="-10" frameWidth="511" frameHeight="783"/>
+	<SubTexture name="EDD SWAG HEY0008" x="20" y="813" width="497" height="762" frameX="0" frameY="-10" frameWidth="511" frameHeight="783"/>
+	<SubTexture name="EDD SWAG HEY0009" x="20" y="813" width="497" height="762" frameX="0" frameY="-10" frameWidth="511" frameHeight="783"/>
+	<SubTexture name="EDD SWAG HEY0010" x="527" y="813" width="497" height="762" frameX="0" frameY="-10" frameWidth="511" frameHeight="783"/>
+	<SubTexture name="EDD SWAG HEY0011" x="527" y="813" width="497" height="762" frameX="0" frameY="-10" frameWidth="511" frameHeight="783"/>
+	<SubTexture name="EDD SWAG HEY0012" x="20" y="813" width="497" height="762" frameX="0" frameY="-10" frameWidth="511" frameHeight="783"/>
+	<SubTexture name="EDD SWAG HEY0013" x="20" y="813" width="497" height="762" frameX="0" frameY="-10" frameWidth="511" frameHeight="783"/>
+	<SubTexture name="EDD SWAG IDLE0000" x="1034" y="813" width="448" height="735" frameX="0" frameY="-26" frameWidth="469" frameHeight="761"/>
+	<SubTexture name="EDD SWAG IDLE0001" x="1034" y="813" width="448" height="735" frameX="0" frameY="-26" frameWidth="469" frameHeight="761"/>
+	<SubTexture name="EDD SWAG IDLE0002" x="1492" y="813" width="467" height="735" frameX="-2" frameY="-26" frameWidth="469" frameHeight="761"/>
+	<SubTexture name="EDD SWAG IDLE0003" x="1492" y="813" width="467" height="735" frameX="-2" frameY="-26" frameWidth="469" frameHeight="761"/>
+	<SubTexture name="EDD SWAG IDLE0004" x="1969" y="813" width="449" height="753" frameX="-4" frameY="-8" frameWidth="469" frameHeight="761"/>
+	<SubTexture name="EDD SWAG IDLE0005" x="1969" y="813" width="449" height="753" frameX="-4" frameY="-8" frameWidth="469" frameHeight="761"/>
+	<SubTexture name="EDD SWAG IDLE0006" x="2428" y="813" width="445" height="759" frameX="-4" frameY="-2" frameWidth="469" frameHeight="761"/>
+	<SubTexture name="EDD SWAG IDLE0007" x="2428" y="813" width="445" height="759" frameX="-4" frameY="-2" frameWidth="469" frameHeight="761"/>
+	<SubTexture name="EDD SWAG IDLE0008" x="2883" y="813" width="444" height="761" frameX="-3" frameY="0" frameWidth="469" frameHeight="761"/>
+	<SubTexture name="EDD SWAG IDLE0009" x="2883" y="813" width="444" height="761" frameX="-3" frameY="0" frameWidth="469" frameHeight="761"/>
+	<SubTexture name="EDD SWAG IDLE0010" x="3337" y="813" width="444" height="761" frameX="-3" frameY="0" frameWidth="469" frameHeight="761"/>
+	<SubTexture name="EDD SWAG IDLE0011" x="3337" y="813" width="444" height="761" frameX="-3" frameY="0" frameWidth="469" frameHeight="761"/>
+	<SubTexture name="EDD SWAG IDLE0012" x="2883" y="813" width="444" height="761" frameX="-3" frameY="0" frameWidth="469" frameHeight="761"/>
+	<SubTexture name="EDD SWAG IDLE0013" x="2883" y="813" width="444" height="761" frameX="-3" frameY="0" frameWidth="469" frameHeight="761"/>
+	<SubTexture name="EDD SWAG SILLY0000" x="3791" y="813" width="444" height="761"/>
+	<SubTexture name="EDD SWAG SILLY0001" x="3791" y="813" width="444" height="761"/>
+	<SubTexture name="EDD SWAG SILLY0002" x="4245" y="813" width="444" height="760" frameX="0" frameY="-1" frameWidth="444" frameHeight="761"/>
+	<SubTexture name="EDD SWAG SILLY0003" x="4245" y="813" width="444" height="760" frameX="0" frameY="-1" frameWidth="444" frameHeight="761"/>
+	<SubTexture name="EDD SWAG SILLY0004" x="3791" y="813" width="444" height="761"/>
+	<SubTexture name="EDD SWAG SILLY0005" x="3791" y="813" width="444" height="761"/>
+	<SubTexture name="EDD SWAG SILLY0006" x="4699" y="813" width="444" height="760" frameX="0" frameY="-1" frameWidth="444" frameHeight="761"/>
+	<SubTexture name="EDD SWAG SILLY0007" x="4699" y="813" width="444" height="760" frameX="0" frameY="-1" frameWidth="444" frameHeight="761"/>
+	<SubTexture name="EDD SWAG SILLY0008" x="5153" y="813" width="444" height="761"/>
+	<SubTexture name="EDD SWAG SILLY0009" x="5153" y="813" width="444" height="761"/>
+	<SubTexture name="EDD SWAG SILLY0010" x="5607" y="813" width="444" height="760" frameX="0" frameY="-1" frameWidth="444" frameHeight="761"/>
+	<SubTexture name="EDD SWAG SILLY0011" x="5607" y="813" width="444" height="760" frameX="0" frameY="-1" frameWidth="444" frameHeight="761"/>
+	<SubTexture name="EDD SWAG SILLY0012" x="6061" y="813" width="444" height="761"/>
+	<SubTexture name="EDD SWAG SILLY0013" x="6061" y="813" width="444" height="761"/>
+	<SubTexture name="EDD SWAG SILLY0014" x="5607" y="813" width="444" height="760" frameX="0" frameY="-1" frameWidth="444" frameHeight="761"/>
+	<SubTexture name="EDD SWAG SILLY0015" x="5607" y="813" width="444" height="760" frameX="0" frameY="-1" frameWidth="444" frameHeight="761"/>
+	<SubTexture name="EDD SWAG SILLY0016" x="6061" y="813" width="444" height="761"/>
+	<SubTexture name="EDD SWAG SILLY0017" x="6061" y="813" width="444" height="761"/>
+	<SubTexture name="EDD SWAG SILLY0018" x="5607" y="813" width="444" height="760" frameX="0" frameY="-1" frameWidth="444" frameHeight="761"/>
+	<SubTexture name="EDD SWAG SILLY0019" x="5607" y="813" width="444" height="760" frameX="0" frameY="-1" frameWidth="444" frameHeight="761"/>
+	<SubTexture name="EDD SWAG SILLY0020" x="6061" y="813" width="444" height="761"/>
+	<SubTexture name="EDD SWAG SILLY0021" x="6061" y="813" width="444" height="761"/>
+	<SubTexture name="EDD SWAG SILLY0022" x="5607" y="813" width="444" height="760" frameX="0" frameY="-1" frameWidth="444" frameHeight="761"/>
+	<SubTexture name="EDD SWAG SILLY0023" x="5607" y="813" width="444" height="760" frameX="0" frameY="-1" frameWidth="444" frameHeight="761"/>
+	<SubTexture name="EDD SWAG SILLY0024" x="6061" y="813" width="444" height="761"/>
+	<SubTexture name="EDD SWAG SILLY0025" x="6061" y="813" width="444" height="761"/>
+	<SubTexture name="EDD SWAG SILLY0026" x="5607" y="813" width="444" height="760" frameX="0" frameY="-1" frameWidth="444" frameHeight="761"/>
+	<SubTexture name="EDD SWAG SILLY0027" x="5607" y="813" width="444" height="760" frameX="0" frameY="-1" frameWidth="444" frameHeight="761"/>
+	<SubTexture name="EDD SWAG SILLY0028" x="6061" y="813" width="444" height="761"/>
+	<SubTexture name="EDD SWAG rIGHT IDLE0000" x="6515" y="813" width="439" height="745" frameX="0" frameY="-4" frameWidth="461" frameHeight="749"/>
+	<SubTexture name="EDD SWAG rIGHT IDLE0001" x="6515" y="813" width="439" height="745" frameX="0" frameY="-4" frameWidth="461" frameHeight="749"/>
+	<SubTexture name="EDD SWAG rIGHT IDLE0002" x="6964" y="813" width="438" height="748" frameX="-20" frameY="-1" frameWidth="461" frameHeight="749"/>
+	<SubTexture name="EDD SWAG rIGHT IDLE0003" x="6964" y="813" width="438" height="748" frameX="-20" frameY="-1" frameWidth="461" frameHeight="749"/>
+	<SubTexture name="EDD SWAG rIGHT IDLE0004" x="7412" y="813" width="438" height="749" frameX="-23" frameY="0" frameWidth="461" frameHeight="749"/>
+	<SubTexture name="EDD SWAG rIGHT IDLE0005" x="7412" y="813" width="438" height="749" frameX="-23" frameY="0" frameWidth="461" frameHeight="749"/>
+	<SubTexture name="EDD SWAG rIGHT IDLE0006" x="7412" y="813" width="438" height="749" frameX="-23" frameY="0" frameWidth="461" frameHeight="749"/>
+	<SubTexture name="EDD SWAG rIGHT IDLE0007" x="7412" y="813" width="438" height="749" frameX="-23" frameY="0" frameWidth="461" frameHeight="749"/>
+	<SubTexture name="EDD SWAG rIGHT IDLE0008" x="7412" y="813" width="438" height="749" frameX="-23" frameY="0" frameWidth="461" frameHeight="749"/>
+	<SubTexture name="EDD SWAG rIGHT IDLE0009" x="7412" y="813" width="438" height="749" frameX="-23" frameY="0" frameWidth="461" frameHeight="749"/>
+	<SubTexture name="EDD SWAG rIGHT IDLE0010" x="7412" y="813" width="438" height="749" frameX="-23" frameY="0" frameWidth="461" frameHeight="749"/>
+	<SubTexture name="EDD SWAG rIGHT IDLE0011" x="7412" y="813" width="438" height="749" frameX="-23" frameY="0" frameWidth="461" frameHeight="749"/>
+	<SubTexture name="EDD SWAG rIGHT IDLE0012" x="7412" y="813" width="438" height="749" frameX="-23" frameY="0" frameWidth="461" frameHeight="749"/>
+	<SubTexture name="EDD SWAG rIGHT IDLE0013" x="7412" y="813" width="438" height="749" frameX="-23" frameY="0" frameWidth="461" frameHeight="749"/>
+	<SubTexture name="EDD SWAG rIGHT MISS0000" x="20" y="1585" width="439" height="745" frameX="-18" frameY="0" frameWidth="464" frameHeight="745"/>
+	<SubTexture name="EDD SWAG rIGHT MISS0001" x="20" y="1585" width="439" height="745" frameX="-18" frameY="0" frameWidth="464" frameHeight="745"/>
+	<SubTexture name="EDD SWAG rIGHT MISS0002" x="469" y="1585" width="464" height="732" frameX="0" frameY="-13" frameWidth="464" frameHeight="745"/>
+	<SubTexture name="EDD SWAG rIGHT MISS0003" x="469" y="1585" width="464" height="732" frameX="0" frameY="-13" frameWidth="464" frameHeight="745"/>
+	<SubTexture name="EDD SWAG rIGHT MISS0004" x="943" y="1585" width="439" height="745" frameX="-18" frameY="0" frameWidth="464" frameHeight="745"/>
+	<SubTexture name="EDD SWAG rIGHT MISS0005" x="943" y="1585" width="439" height="745" frameX="-18" frameY="0" frameWidth="464" frameHeight="745"/>
+	<SubTexture name="EDD SWAG rIGHT MISS0006" x="943" y="1585" width="439" height="745" frameX="-18" frameY="0" frameWidth="464" frameHeight="745"/>
+	<SubTexture name="EDD SWAG rIGHT MISS0007" x="943" y="1585" width="439" height="745" frameX="-18" frameY="0" frameWidth="464" frameHeight="745"/>
+	<SubTexture name="EDD SWAG rIGHT MISS0008" x="943" y="1585" width="439" height="745" frameX="-18" frameY="0" frameWidth="464" frameHeight="745"/>
+	<SubTexture name="EDD SWAG rIGHT MISS0009" x="943" y="1585" width="439" height="745" frameX="-18" frameY="0" frameWidth="464" frameHeight="745"/>
+	<SubTexture name="EDD SWAG rIGHT MISS0010" x="943" y="1585" width="439" height="745" frameX="-18" frameY="0" frameWidth="464" frameHeight="745"/>
+	<SubTexture name="EDD SWAG rIGHT MISS0011" x="943" y="1585" width="439" height="745" frameX="-18" frameY="0" frameWidth="464" frameHeight="745"/>
+	<SubTexture name="EDD SWAG rIGHT MISS0012" x="943" y="1585" width="439" height="745" frameX="-18" frameY="0" frameWidth="464" frameHeight="745"/>
+	<SubTexture name="EDD SWAG rIGHT MISS0013" x="943" y="1585" width="439" height="745" frameX="-18" frameY="0" frameWidth="464" frameHeight="745"/>
+	<SubTexture name="EDD SWAG up IDLE0000" x="1392" y="1585" width="421" height="793" frameX="-10" frameY="0" frameWidth="431" frameHeight="793"/>
+	<SubTexture name="EDD SWAG up IDLE0001" x="1392" y="1585" width="421" height="793" frameX="-10" frameY="0" frameWidth="431" frameHeight="793"/>
+	<SubTexture name="EDD SWAG up IDLE0002" x="1823" y="1585" width="416" height="779" frameX="-2" frameY="-14" frameWidth="431" frameHeight="793"/>
+	<SubTexture name="EDD SWAG up IDLE0003" x="1823" y="1585" width="416" height="779" frameX="-2" frameY="-14" frameWidth="431" frameHeight="793"/>
+	<SubTexture name="EDD SWAG up IDLE0004" x="2249" y="1585" width="417" height="777" frameX="0" frameY="-16" frameWidth="431" frameHeight="793"/>
+	<SubTexture name="EDD SWAG up IDLE0005" x="2249" y="1585" width="417" height="777" frameX="0" frameY="-16" frameWidth="431" frameHeight="793"/>
+	<SubTexture name="EDD SWAG up IDLE0006" x="2249" y="1585" width="417" height="777" frameX="0" frameY="-16" frameWidth="431" frameHeight="793"/>
+	<SubTexture name="EDD SWAG up IDLE0007" x="2249" y="1585" width="417" height="777" frameX="0" frameY="-16" frameWidth="431" frameHeight="793"/>
+	<SubTexture name="EDD SWAG up IDLE0008" x="2249" y="1585" width="417" height="777" frameX="0" frameY="-16" frameWidth="431" frameHeight="793"/>
+	<SubTexture name="EDD SWAG up IDLE0009" x="2249" y="1585" width="417" height="777" frameX="0" frameY="-16" frameWidth="431" frameHeight="793"/>
+	<SubTexture name="EDD SWAG up IDLE0010" x="2249" y="1585" width="417" height="777" frameX="0" frameY="-16" frameWidth="431" frameHeight="793"/>
+	<SubTexture name="EDD SWAG up IDLE0011" x="2249" y="1585" width="417" height="777" frameX="0" frameY="-16" frameWidth="431" frameHeight="793"/>
+	<SubTexture name="EDD SWAG up IDLE0012" x="2249" y="1585" width="417" height="777" frameX="0" frameY="-16" frameWidth="431" frameHeight="793"/>
+	<SubTexture name="EDD SWAG up IDLE0013" x="2249" y="1585" width="417" height="777" frameX="0" frameY="-16" frameWidth="431" frameHeight="793"/>
+	<SubTexture name="EDD SWAG up MISS0000" x="2676" y="1585" width="421" height="793" frameX="0" frameY="-13" frameWidth="421" frameHeight="806"/>
+	<SubTexture name="EDD SWAG up MISS0001" x="2676" y="1585" width="421" height="793" frameX="0" frameY="-13" frameWidth="421" frameHeight="806"/>
+	<SubTexture name="EDD SWAG up MISS0002" x="3107" y="1585" width="399" height="806" frameX="-10" frameY="0" frameWidth="421" frameHeight="806"/>
+	<SubTexture name="EDD SWAG up MISS0003" x="3107" y="1585" width="399" height="806" frameX="-10" frameY="0" frameWidth="421" frameHeight="806"/>
+	<SubTexture name="EDD SWAG up MISS0004" x="3516" y="1585" width="421" height="793" frameX="0" frameY="-13" frameWidth="421" frameHeight="806"/>
+	<SubTexture name="EDD SWAG up MISS0005" x="3516" y="1585" width="421" height="793" frameX="0" frameY="-13" frameWidth="421" frameHeight="806"/>
+	<SubTexture name="EDD SWAG up MISS0006" x="3516" y="1585" width="421" height="793" frameX="0" frameY="-13" frameWidth="421" frameHeight="806"/>
+	<SubTexture name="EDD SWAG up MISS0007" x="3516" y="1585" width="421" height="793" frameX="0" frameY="-13" frameWidth="421" frameHeight="806"/>
+	<SubTexture name="EDD SWAG up MISS0008" x="3516" y="1585" width="421" height="793" frameX="0" frameY="-13" frameWidth="421" frameHeight="806"/>
+	<SubTexture name="EDD SWAG up MISS0009" x="3516" y="1585" width="421" height="793" frameX="0" frameY="-13" frameWidth="421" frameHeight="806"/>
+	<SubTexture name="EDD SWAG up MISS0010" x="3516" y="1585" width="421" height="793" frameX="0" frameY="-13" frameWidth="421" frameHeight="806"/>
+	<SubTexture name="EDD SWAG up MISS0011" x="3516" y="1585" width="421" height="793" frameX="0" frameY="-13" frameWidth="421" frameHeight="806"/>
+	<SubTexture name="EDD SWAG up MISS0012" x="3516" y="1585" width="421" height="793" frameX="0" frameY="-13" frameWidth="421" frameHeight="806"/>
+	<SubTexture name="EDD SWAG up MISS0013" x="3516" y="1585" width="421" height="793" frameX="0" frameY="-13" frameWidth="421" frameHeight="806"/>
+</TextureAtlas>

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pack.png">
+<SubTexture name="pack icon0000" x="0" y="0" width="148" height="148" frameX="-1" frameY="0" frameWidth="150" frameHeight="150" />
+<SubTexture name="pack icon0001" x="148" y="0" width="148" height="148" frameX="-1" frameY="0" frameWidth="150" frameHeight="150" />
+</TextureAtlas>

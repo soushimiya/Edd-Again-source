@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "tord-idle"
+		},
+		{
+			"offsets": [
+				-5,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tord-down"
+		},
+		{
+			"offsets": [
+				0,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "tord-up"
+		},
+		{
+			"offsets": [
+				314,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wo",
+			"indices": [],
+			"name": "tord-wo"
+		},
+		{
+			"offsets": [
+				15,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tord-right"
+		},
+		{
+			"offsets": [
+				-19,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tord-left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/tord-2004",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "2004T",
+	"flip_x": false,
+	"healthbar_colors": [
+		81,
+		81,
+		81
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Tord Zombeh I",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Tord Zombeh U",
+			"indices": []
+		},
+		{
+			"offsets": [
+				17,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Tord Zombeh R"
+		},
+		{
+			"offsets": [
+				22,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Tord Zombeh L"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Tord Zombeh D",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tord Zombeh",
+	"position": [
+		-400,
+		-150
+	],
+	"healthicon": "Tord Zombeh",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		0,
+		35
+	],
+	"camera_position": [
+		-340,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

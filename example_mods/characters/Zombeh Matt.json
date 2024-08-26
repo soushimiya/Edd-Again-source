@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Zombeh  Matt idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Zombeh  Matt d"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Zombeh  Matt u"
+		},
+		{
+			"offsets": [
+				333,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Kill",
+			"indices": [],
+			"name": "Zombeh  Matt kill"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Zombeh  Matt l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Zombeh  Matt r",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Zombeh  Matt m",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Zombeh  Matt",
+	"position": [
+		-500,
+		-140
+	],
+	"healthicon": "Zm",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		175,
+		120
+	],
+	"camera_position": [
+		-220,
+		-290
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

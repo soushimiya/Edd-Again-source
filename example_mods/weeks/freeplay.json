@@ -1,0 +1,50 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Primevaledd",
+			"Chronicles matt",
+			[
+				255,
+				133,
+				0
+			]
+		],
+		[
+			"Friends",
+			"no",
+			[
+				186,
+				193,
+				35
+			]
+		],
+		[
+			"Checked-Remix",
+			"tomsk",
+			[
+				0,
+				193,
+				215
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Edd Zombeh.png">
+<SubTexture name="Edd Zombeh L0000" x="1172" y="1227" width="384" height="551" frameX="-468" frameY="-283" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh L0001" x="1172" y="1227" width="384" height="551" frameX="-468" frameY="-283" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh L0002" x="388" y="1227" width="377" height="556" frameX="-465" frameY="-278" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh L0003" x="388" y="1227" width="377" height="556" frameX="-465" frameY="-278" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh L0004" x="1619" y="566" width="374" height="564" frameX="-460" frameY="-270" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh L0005" x="1619" y="566" width="374" height="564" frameX="-460" frameY="-270" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh R0000" x="718" y="652" width="374" height="571" frameX="-420" frameY="-263" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh R0001" x="718" y="652" width="374" height="571" frameX="-420" frameY="-263" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh R0002" x="355" y="652" width="363" height="573" frameX="-434" frameY="-261" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh R0003" x="355" y="652" width="363" height="573" frameX="-434" frameY="-261" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh R0004" x="0" y="652" width="355" height="575" frameX="-443" frameY="-259" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh R0005" x="0" y="652" width="355" height="575" frameX="-443" frameY="-259" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh D0000" x="2004" y="1095" width="398" height="539" frameX="-437" frameY="-295" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh D0001" x="2004" y="1095" width="398" height="539" frameX="-437" frameY="-295" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh D0002" x="2004" y="548" width="393" height="547" frameX="-438" frameY="-287" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh D0003" x="2004" y="548" width="393" height="547" frameX="-438" frameY="-287" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh D0004" x="0" y="1227" width="388" height="558" frameX="-437" frameY="-276" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh D0005" x="0" y="1227" width="388" height="558" frameX="-437" frameY="-276" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh U0000" x="0" y="0" width="420" height="652" frameX="-424" frameY="-182" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh U0001" x="0" y="0" width="420" height="652" frameX="-424" frameY="-182" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh U0002" x="420" y="0" width="415" height="624" frameX="-426" frameY="-210" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh U0003" x="420" y="0" width="415" height="624" frameX="-426" frameY="-210" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh U0004" x="835" y="0" width="409" height="600" frameX="-428" frameY="-234" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh U0005" x="835" y="0" width="409" height="600" frameX="-428" frameY="-234" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh I0000" x="2004" y="0" width="414" height="548" frameX="-433" frameY="-286" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh I0001" x="2004" y="0" width="414" height="548" frameX="-433" frameY="-286" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh I0002" x="765" y="1227" width="407" height="553" frameX="-431" frameY="-281" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh I0003" x="765" y="1227" width="407" height="553" frameX="-431" frameY="-281" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh I0004" x="1619" y="0" width="385" height="566" frameX="-438" frameY="-268" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh I0005" x="1619" y="0" width="385" height="566" frameX="-438" frameY="-268" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh I0006" x="1244" y="0" width="375" height="571" frameX="-449" frameY="-263" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh I0007" x="1244" y="0" width="375" height="571" frameX="-449" frameY="-263" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh I0008" x="1244" y="0" width="375" height="571" frameX="-449" frameY="-263" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh I0009" x="1244" y="0" width="375" height="571" frameX="-449" frameY="-263" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh M0000" x="1244" y="571" width="375" height="571" frameX="-449" frameY="-263" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh M0001" x="1244" y="571" width="375" height="571" frameX="-449" frameY="-263" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh M0002" x="1556" y="1227" width="390" height="551" frameX="-441" frameY="-283" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh M0003" x="1556" y="1227" width="390" height="551" frameX="-441" frameY="-283" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh M0004" x="0" y="1785" width="411" height="525" frameX="-432" frameY="-309" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Edd Zombeh M0005" x="0" y="1785" width="411" height="525" frameX="-432" frameY="-309" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

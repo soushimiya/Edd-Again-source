@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "EddIdle"
+		},
+		{
+			"offsets": [
+				90,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "EddLeft"
+		},
+		{
+			"offsets": [
+				64,
+				-82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "EddDown"
+		},
+		{
+			"offsets": [
+				37,
+				51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "EddUp"
+		},
+		{
+			"offsets": [
+				-55,
+				92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "EddRight"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				109,
+				-9
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Eddmigi",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-72,
+				91
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Eddhi",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				-90
+			],
+			"anim": "singDOWNMiss",
+			"fps": 24,
+			"name": "Eddsita",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				51
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Eddue",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EDD_3",
+	"position": [
+		70,
+		340
+	],
+	"healthicon": "E2008",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		133,
+		47
+	],
+	"camera_position": [
+		240,
+		-190
+	],
+	"sing_duration": 6.1,
+	"scale": 1.55
+}

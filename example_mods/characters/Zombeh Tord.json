@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Zombeh Tord idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Zombeh Tord D"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Zombeh Tord U"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Zombeh Tord L",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Zombeh Tord R",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Zombeh Tord",
+	"position": [
+		-550,
+		-290
+	],
+	"healthicon": "T Z",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		204,
+		153
+	],
+	"camera_position": [
+		-30,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

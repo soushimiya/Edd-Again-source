@@ -1,0 +1,32 @@
+{
+	"storyName": "edd again",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "eddsworld",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Smeg-Head",
+			"cola",
+			[
+				46,
+				153,
+				95
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week Edd Again"
+}
