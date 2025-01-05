@@ -34,7 +34,7 @@ class EddMainMenuAgain extends MusicBeatState
 
     var menuItems:FlxTypedGroup<FlxSprite>;
 
-    var menuArray:Array<String> = [
+    final menuArray:Array<String> = [
         'storyMode',
         'freePlay',
         //'awards',
